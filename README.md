@@ -4,6 +4,7 @@ Install the dependencies and run the project
 npm install
 npm start
 ```
+View project here: https://insta-clone-scrimba.netlify.app
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
