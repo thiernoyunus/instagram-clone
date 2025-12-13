@@ -1,0 +1,85 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 400;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 375px;
+    height: 50px;
+    border-bottom: 1px solid #C6C6C6;
+    padding: 5px 10px;
+}
+.logo{
+    width: 127px;
+    height: 45px;
+}
+.profile-pic{
+    width: 34px;
+    height: 34px;
+    border-radius: 100%;
+    padding-top: 4px;
+}
+
+.friend-info{
+    display: flex;
+    padding: 10px;
+}
+
+p{
+    margin: 0;
+}
+
+.about-friend {
+    padding-left: 7px;
+    padding-top: 5px;
+}
+
+.friend-full-name{
+    font-size: .81rem; 
+    font-weight: 700;  
+}
+
+.friend-location{
+    font-size: .75rem;
+}
+
+.post-image{
+    width: 395px;
+    height: 375px;
+}
+
+.post-engagement{
+    display: inline-flex;
+    justify-content: space-between;
+    width: 90px;
+    height: 22px;
+    padding: 15px 0px 10px 10px;
+}
+
+.post-caption,
+.likes-count{
+    padding-left: 13px;
+    padding-bottom: 12px;
+}
+
+.likes-count,
+span{
+    font-weight: 700;
+}
+
+.heart-icon,
+.comment-icon,
+.dm-icon {
+    cursor: pointer;
+}
+
+.heart-icon:hover,
+.comment-icon:hover,
+.dm-icon:hover {
+    transform: scale(1.15);
+}
+
