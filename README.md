@@ -1,20 +1,35 @@
-# Getting Started
-Install the dependencies and run the project
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/dots.svg?title=Instagram+Clone&subtitle=A+small+photo+feed+built+with+vanilla+JS&logo=instagram&mode=dark" />
+    <img alt="Instagram Clone" src="https://shieldcn.dev/header/dots.svg?title=Instagram+Clone&subtitle=A+small+photo+feed+built+with+vanilla+JS&logo=instagram&mode=light" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://insta-clone-scrimba.netlify.app"><img alt="Live demo" src="https://shieldcn.dev/badge/Live-Demo-22c55e.svg?variant=secondary&logo=netlify" /></a>
+  <a href="https://vitejs.dev/"><img alt="Vite" src="https://shieldcn.dev/badge/Built_with-Vite-646CFF.svg?variant=secondary&logo=vite" /></a>
+  <a href="https://github.com/thiernoyunus/instagram-clone/commits"><img alt="Last commit" src="https://shieldcn.dev/github/last-commit/thiernoyunus/instagram-clone.svg?variant=secondary" /></a>
+  <a href="https://github.com/thiernoyunus/instagram-clone/stargazers"><img alt="Stars" src="https://shieldcn.dev/github/stars/thiernoyunus/instagram-clone.svg?variant=secondary" /></a>
+</p>
+
+
+A simple Instagram-style feed showing posts (avatar, photo, location, likes and caption) rendered from a JavaScript array.
+
+**Live demo:** [https://insta-clone-scrimba.netlify.app](https://insta-clone-scrimba.netlify.app)
+
+## Getting started
+
+Install the dependencies and run the project:
+
 ```
 npm install
 npm start
 ```
-View project here: https://insta-clone-scrimba.netlify.app
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## Built with
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+HTML, CSS and JavaScript, bundled with [Vite](https://vitejs.dev/).
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Credits
 
-Happy Coding!
+Built as part of a [Scrimba](https://scrimba.com/courses) course. More from Scrimba: [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack) · [Scrimba Pro](https://scrimba.com/pricing)
