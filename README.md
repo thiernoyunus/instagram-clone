@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="images/logo.png" width="160" alt="Instagram clone logo" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/dots.svg?title=Instagram+Clone&subtitle=A+small+photo+feed+built+with+vanilla+JS&logo=instagram&mode=dark" />
     <img alt="Instagram Clone" src="https://shieldcn.dev/header/dots.svg?title=Instagram+Clone&subtitle=A+small+photo+feed+built+with+vanilla+JS&logo=instagram&mode=light" />
